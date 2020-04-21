@@ -1,21 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Armando Galan-Cedeño  Assignment6B
+//CS121 Spring 2020
+//April 21, 2020
+//Purpose: Using a Variable-Length Argument List
+
 package variablelengthargumentlist;
 
-/**
- *
- * @author Armando
- */
 public class VariableLengthArgumentList {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
